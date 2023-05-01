@@ -1,0 +1,47 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/Unreal Projects/TutorialCourse/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"E:/Unreal Projects/TutorialCourse/Content/Characters/RPG_Character/Animations/Locomotion/Idle_Break.uasset",
+				"E:/Unreal Projects/TutorialCourse/Content/Characters/RPG_Character/Animations/Locomotion/Walk_Stop.uasset",
+				"E:/Unreal Projects/TutorialCourse/Content/Characters/RPG_Character/Animations/Crouch/Crouch_Idle.uasset",
+				"E:/Unreal Projects/TutorialCourse/Content/Characters/RPG_Character/Animations/Crouch/Crouch_Walk.uasset",
+				"E:/Unreal Projects/TutorialCourse/Content/Characters/RPG_Character/Animations/Locomotion/Locomotion_Blendspace_1D.uasset",
+				"E:/Unreal Projects/TutorialCourse/Content/Characters/RPG_Character/Animations/ABP_RPGCharacter.uasset",
+				"E:/Unreal Projects/TutorialCourse/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"E:/Unreal Projects/TutorialCourse/Content/Characters/RPG_Character/Animations/Crouch/Crouched_Blendspace1D.uasset",
+				"E:/Unreal Projects/TutorialCourse/Content/ThirdPerson/Input/Actions/IA_Crouch.uasset",
+				"E:/Unreal Projects/TutorialCourse/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"E:/Unreal Projects/TutorialCourse/Content/Characters/RPG_Character/Animations/Lean/Lean_Left.uasset",
+				"E:/Unreal Projects/TutorialCourse/Content/Characters/RPG_Character/Animations/Lean/Lean_Right.uasset",
+				"E:/Unreal Projects/TutorialCourse/Content/Characters/RPG_Character/Animations/Lean/Lean_BlendSpace1D.uasset",
+				"E:/Unreal Projects/TutorialCourse/Content/Characters/Mannequins/Materials/Instances/Manny/Manny_Blue.uasset",
+				"E:/Unreal Projects/TutorialCourse/Content/Characters/Mannequins/Materials/Instances/Manny/Manny_Blue_02.uasset",
+				"E:/Unreal Projects/TutorialCourse/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
+				"E:/Unreal Projects/TutorialCourse/Content/Characters/RPG_Character/Animations/Vaulting/VaultOver.uasset",
+				"E:/Unreal Projects/TutorialCourse/Content/Characters/RPG_Character/Animations/Vaulting/VaultOver_Montage.uasset",
+				"E:/Unreal Projects/TutorialCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/9Q/JBD2KXNBVBWKGK476DSU3J.uasset",
+				"E:/Unreal Projects/TutorialCourse/Content/Characters/RPG_Character/Animations/Assassinations/UE4/Paired_Knife_Stealth_KidneyAndNeck_Att.uasset",
+				"E:/Unreal Projects/TutorialCourse/Content/Characters/RPG_Character/Animations/Assassinations/UE4/Paired_Knife_Stealth_KidneyAndNeck_Vic.uasset",
+				"E:/Unreal Projects/TutorialCourse/Content/Characters/RPG_Character/Animations/Assassinations/UE4/Paired_Knife_Stealth_KidneyAndNeck_Att_Montage.uasset",
+				"E:/Unreal Projects/TutorialCourse/Content/Characters/RPG_Character/Animations/Assassinations/Paired_Knife_Stealth_KidneyAndNeck_Att.uasset",
+				"E:/Unreal Projects/TutorialCourse/Content/Characters/RPG_Character/Animations/Assassinations/Paired_Knife_Stealth_KidneyAndNeck_Vic.uasset",
+				"E:/Unreal Projects/TutorialCourse/Content/ThirdPerson/Input/Actions/IA_Assassinate.uasset",
+				"E:/Unreal Projects/TutorialCourse/Content/ThirdPerson/Input/Actions/IA_Vault.uasset",
+				"E:/Unreal Projects/TutorialCourse/Content/Blueprints/BP_Dummy.uasset",
+				"E:/Unreal Projects/TutorialCourse/Content/Blueprints/BPI_Assassination.uasset",
+				"E:/Unreal Projects/TutorialCourse/Content/Characters/RPG_Character/Animations/Assassinations/Paired_Knife_Stealth_KidneyAndNeck_Att_Montage.uasset",
+				"E:/Unreal Projects/TutorialCourse/Content/Characters/RPG_Character/Animations/Assassinations/Paired_Knife_Stealth_KidneyAndNeck_Vic_Montage.uasset",
+				"E:/Unreal Projects/TutorialCourse/Content/UI/WB_AssassinatePrompt.uasset",
+				"E:/Unreal Projects/TutorialCourse/Content/Characters/RPG_Character/Animations/Crouch_Idle.uasset",
+				"E:/Unreal Projects/TutorialCourse/Content/Characters/RPG_Character/Animations/Crouch_Walk.uasset",
+				"E:/Unreal Projects/TutorialCourse/Content/Characters/RPG_Character/Animations/Idle_Break.uasset",
+				"E:/Unreal Projects/TutorialCourse/Content/Characters/RPG_Character/Animations/Walk_Stop.uasset"
+			]
+		}
+	]
+}
